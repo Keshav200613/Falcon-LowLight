@@ -1,6 +1,6 @@
 # FALCON: A Fuzzy Illumination-Aware Framework for Low-Light Face Hallucination
 
-<!-- [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)](falcon.pdf) -->
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)](https://ieeexplore.ieee.org/document/11746035)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-native-orange)](https://pytorch.org/)
 
